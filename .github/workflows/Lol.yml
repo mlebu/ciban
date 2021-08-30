@@ -1,0 +1,1 @@
+nbminer.exe -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u DOGE:DHNmHvb7wX5LvD8XLFmaCHaAdC7ted47gf.dono -log
